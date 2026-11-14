@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.Form1.resources
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.AssemblyInfo.cs
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\bin\Debug\net8.0-windows\HungarianAlgorithm.exe
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\bin\Debug\net8.0-windows\HungarianAlgorithm.deps.json
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\bin\Debug\net8.0-windows\HungarianAlgorithm.runtimeconfig.json
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\bin\Debug\net8.0-windows\HungarianAlgorithm.dll
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\bin\Debug\net8.0-windows\HungarianAlgorithm.pdb
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.dll
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\refint\HungarianAlgorithm.dll
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.pdb
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\HungarianAlgorithm.genruntimeconfig.cache
+C:\Users\Alex\source\repos\HungarianAlgorithm\HungarianAlgorithm\obj\Debug\net8.0-windows\ref\HungarianAlgorithm.dll
